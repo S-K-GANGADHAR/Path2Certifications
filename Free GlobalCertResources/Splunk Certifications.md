@@ -1,4 +1,4 @@
-# Free Certifications by Reputable Companies - Splunk Education
+#  Splunk Education
 
 This repository provides links to free certifications offered by Splunk Education. These certifications cover a variety of topics that will help you enhance your skills in cybersecurity, security operations, and threat analysis.
 
