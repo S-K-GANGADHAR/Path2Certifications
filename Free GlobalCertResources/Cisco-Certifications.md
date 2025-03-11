@@ -2,7 +2,7 @@
 
 This section of the repository is dedicated to providing resources for various Cisco certifications. Whether you're a beginner or an experienced professional, Cisco offers certifications that can boost your networking and IT skills. Below are some of the key certifications, their descriptions, and links to relevant study materials.
 
----
+--
 
 ## Certifications Overview
 
